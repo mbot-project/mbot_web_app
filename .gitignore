@@ -1,0 +1,21 @@
+# VSCode
+.vscode/
+
+# NPM files
+node_modules/
+dist/
+package-lock.json
+
+# Python
+__pycache__/
+*.pyc
+
+# Map files
+*.map
+
+# Other
+.DS_Store
+lcmtypes/*.py
+
+# Release tars.
+*.tar.gz
